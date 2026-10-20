@@ -26,7 +26,7 @@ Highly concurrent operating system simulation. Features shared resource orchestr
 * **Thread Safety**: Implemented mutexes and semaphores for resource coordination.
 * **Algorithmic Scheduling**: Built efficient execution loops to manage process state transitions.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=blue)
 
 ---
 
