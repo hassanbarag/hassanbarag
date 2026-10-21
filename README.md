@@ -1,4 +1,4 @@
-# Hassan Barag — Junior Software Developer
+# Hassan ISSE — Junior Software Developer
 
 Junior Software Developer focused on software engineering, problem-solving, and procedural systems. Passionate about building robust applications, algorithmic challenges, and clean code.
 
@@ -7,8 +7,6 @@ Junior Software Developer focused on software engineering, problem-solving, and 
 ---
 
 ## 🚩 Featured Projects
-
-### 🧠 Systems & Algorithms
 
 #### [Call Me Maybe](https://github.com/hassanbarag/call-me-maybe) — LLM Constrained Decoding
 Deterministic LLM pipeline that guarantees valid structured outputs and function calls. Enforces strict type-matching and custom criteria during generation.
