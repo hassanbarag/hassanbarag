@@ -38,7 +38,7 @@ Simulation engine that solves optimal multi-drone routing using Time-Expanded Gr
 ---
 
 #### [A-Maze-ing](https://github.com/hassanbarag/A-Maze-ing) — Procedural Maze Generator & Solver
-A technical exploration into the world of graph theory and procedural generation. The objective of this project is to create a robust system capable of generating "perfect" mazes (mazes where any two points are connected by exactly one path) and providing automated solutions.
+A procedural generation system built on graph theory that creates and solves "perfect" mazes with unique single-path connectivity. It features custom wall hex-encoding and interactive terminal rendering.
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/ALGORITHMS-000000?style=for-the-badge&logo=github&logoColor=white)
