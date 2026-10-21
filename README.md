@@ -21,8 +21,7 @@ Deterministic LLM pipeline that guarantees valid structured outputs and function
 
 #### [Codexion](https://github.com/hassanbarag/codexion) — Multithreading Engine
 Highly concurrent operating system simulation. Features shared resource orchestration and CPU scheduling with threads and mutexes to prevent deadlocks.
-* **Thread Safety**: Implemented mutexes and semaphores for resource coordination.
-* **Algorithmic Scheduling**: Built efficient execution loops to manage process state transitions.
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
@@ -30,8 +29,6 @@ Highly concurrent operating system simulation. Features shared resource orchestr
 
 #### [Fly-In](https://github.com/hassanbarag/fly-in) — Multi-Drone Routing Optimizer
 Simulation engine that solves optimal multi-drone routing using Time-Expanded Graphs. Handles pathfinding, collision avoidance, and capacity constraints implemented from scratch.
-* **Graph Pathfinding**: Custom graph algorithms designed specifically for dynamic routing.
-* **Constraint Handling**: Real-time evaluation of capacity and spatial collision avoidance.
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -42,8 +39,6 @@ Simulation engine that solves optimal multi-drone routing using Time-Expanded Gr
 
 #### [A-Maze-ing](https://github.com/hassanbarag/A-Maze-ing) — Procedural Maze Generator & Solver
 A technical exploration into the world of graph theory and procedural generation. The objective of this project is to create a robust system capable of generating "perfect" mazes (mazes where any two points are connected by exactly one path) and providing automated solutions.
-* **Modular Architecture**: Separates generation logic from visual rendering for easy expansion and testing.
-* **Mathematical Approach**: Utilizes core graph theory algorithms for maze construction and dynamic pathfinding.
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/ALGORITHMS-000000?style=for-the-badge&logo=github&logoColor=white)
