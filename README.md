@@ -1,4 +1,4 @@
-                                            # Hassan ISSE — Junior Software Developer
+# Hassan ISSE — Junior Software Developer
 
 Junior Software Developer focused on software engineering, problem-solving, and procedural systems. Passionate about building robust applications, algorithmic challenges, and clean code.
 
