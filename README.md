@@ -23,7 +23,7 @@ Deterministic LLM pipeline that guarantees valid structured outputs and function
 Highly concurrent operating system simulation. Features shared resource orchestration and CPU scheduling with threads and mutexes to prevent deadlocks.
 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
