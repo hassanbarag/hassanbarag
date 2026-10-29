@@ -2,15 +2,11 @@
 # Hassan Isse — Junior Software Developer
 
 Software development student at 42 Barcelona with an interest in technology, problem-solving, and continuous learning. Committed to discipline, consistency, and growing through practical experience.
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanbarag">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 ## 🚩 Featured Projects
 
