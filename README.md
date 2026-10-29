@@ -1,8 +1,13 @@
+
 # Hassan Isse — Junior Software Developer
 
-Junior Software Developer focused on software engineering, problem-solving, and procedural systems. Passionate about building robust applications, algorithmic challenges, and clean code.
+Junior Software Developer focused on software engineering, problem-solving, and algorithmic thinking. Interested in building reliable software, writing clean code, and continuously improving through practical projects and hands-on learning.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanbarag)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassanbarag">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
