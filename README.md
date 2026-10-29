@@ -1,7 +1,8 @@
 
 # Hassan Isse — Junior Software Developer
 
-Junior Software Developer focused on software engineering, problem-solving, and algorithmic thinking. Interested in building reliable software, writing clean code, and continuously improving through practical projects and hands-on learning.
+Software development student at 42 Barcelona with an interest in technology, problem-solving, and continuous learning. Committed to discipline, consistency, and growing through practical experience.
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanbarag">
